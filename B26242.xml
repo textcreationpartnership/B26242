@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's new declaration an edict of the King, declaring that the next of kin and lawful heirs of such persons as are fled for their religion, shall enter into possession of the estates and goods which they have left behind in the kingdom, yet without any power to sell of alienate them, till after the expiration of five years. Given at Versailles, in the month of December 1689. Register'd in Parliament, Decemb. 9. 1689. Licens'd December 7. 1689. J.F.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26242</idno><idno type="EEBO-CITATION">99886047</idno>
+  <idno type="VID">188698</idno>
+  <idno type="EEBO-PROQUEST">2240885405</idno>
+  
+            <idno type="STC">Wing L3132</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[77]</idno>
+            <idno type="STC">ESTC R225330</idno>
+            <idno type="PROQUEST">ocm99886047</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886047e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188698)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's new declaration an edict of the King, declaring that the next of kin and lawful heirs of such persons as are fled for their religion, shall enter into possession of the estates and goods which they have left behind in the kingdom, yet without any power to sell of alienate them, till after the expiration of five years. Given at Versailles, in the month of December 1689. Register'd in Parliament, Decemb. 9. 1689. Licens'd December 7. 1689. J.F.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Ben[net] Griffin, at the sign of the Griffin in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bookseller's name from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188698:1"/>
+            <head>The French King's New Declaration</head>
+            <head type="sub">An EDICT of the King, Declaring that the next of Kin and lawful Heirs of such Persons as are fled for their Religion, shall enter into Possession of the Estates and Goods which they have left behind in the Kingdom, yet without any Power to Sell or Alienate them, till after the Expiration of Five Years.</head>
+            <opener>
+               <dateline>Given at <hi>Versailles,</hi>
+                  <date>in the Month of <hi>December</hi> 1689. Register'd in Parliament, <hi>Decemb.</hi> 9. 1689.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>LICENS'D <date>December 7. 1689.</date> J. F.</p>
+            </argument>
+            <opener>
+               <salute>LEWIS by the Grace of God, King of <hi>France</hi> and <hi>Navarr,</hi> to all both Present and to Come, Greeting.</salute>
+            </opener>
+            <p>After we had taken a Resolution to extirpate in our Kingdom the Exercise of the pretended Reformed Religion, which the Kings our Predecessors, and our selves had only tollerated, we thought it our Duty to Consecrate to God, and to pious Uses, the Goods which belong'd to the Consistory, and those which were appointed for the maintenance of the Ministers and Poor of the Pretended Reformed Religion; and afterwards we found our selves oblig'd for the Causes contain'd in our Edict in the Month of <hi>January</hi> 1682. to dispose of the Goods and Estates left behind by those of our Subjects of the Pretended Reformed Religion, who are departed out of our Kingdom, contrary to our Edicts of <hi>July</hi> 1681. <hi>July</hi> 1682. and <hi>August</hi> 1685. and are not yet return'd according to the Acts of Grace which we granted in their behalf by our Edicts of <hi>October</hi> 1681. and <hi>July</hi> 1686. To that purpose by our said Edict of <hi>January</hi> 1688, We did Unite these Goods and Estates so left behind to our Demeans, not to augment our Revenues, but to the end they might be Register'd and Preserv'd by our Officers, with the same care as our own, and that the Revenues thereby accrewing might be employ'd according as we had intended, but being inform'd of the great difficulties which oppose the Execution of our Design in regard of the differe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pretensions and claims which several of our Subjects lay to the said Estates, and besides having a Regard to the Supplications and Petitions which have been made to Us, to preserve the said Goods and Estates to the lawful Heirs of those, who by their de<g ref="char:EOLhyphen"/>parture have left them behind, and being able by other means to provide for the settlement of what shall be judged necessary for the Advantage of the Religion in our Kingdom, without reducing these Estates into <hi>Mortmain,</hi> or depriving of the use thereof, those that help to support the Charges of our Kingdom. For those Reasons, with the Advice of our Privy-Council, and having seen the said Edicts and Declarations, and the Decree thereupon, both this Month, and the Month of <hi>March</hi> 1688. We have of Our certain knowledge, full Power, and Royal Authority by this present Edict, Perpetual, and Irrevocable, Said, Decreed, De<g ref="char:EOLhyphen"/>clar'd and Ordain'd, and do Say, Decree, Declare, Ordain, Will and Please.</p>
+            <p n="1">1. That according to Our Edict of the Month of <hi>Jan.</hi> 1688. the Goods and Estates of the Consistories of the Pretended Reformed Religion, and those that were appointed for the maintenance of the Ministers and Poor of the said Religion, shall be employ'd to Pious Uses, or given to the Hospitals, and Regu<g ref="char:EOLhyphen"/>lar secular Communities, which we shall make choice of next to the places where the said Estates lye, to have the Administration, and to employ one part of the Revenues as we shall direct for the benefit of the Religion, according to the Information that shall be given us to that purpose within Three Months by the Arch-Bishops, Bishops, Intendants and Commissaries, depu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the Provinces for the Execution of our Order, at the Expence of paying the Duties of Indemnity if any are due; the real incumbrances, and all the lawful Debts to which they are liable, to the Value only of the Stock and Revenues of the said Estates; and provided that the rest of the Goods that belong to the said Communities, shall not be charg'd, nor lyable to the said Rights, Charges and Debts, we Will and Require that the Donations here before made by Us, of the Goods of the Consistories, and of those set a part for the maintenance of the Ministers and Poor of the pretended Reformed Religion, to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day of this present Edict, to be employ'd in pious Uses, or upon the Hospitals, or regular or secular Communities, shall be Executed according to their Form and Tenour, We having given them all necessary confirmation.</p>
+            <p n="2">2. Our Will and Pleasure is, That the Estates left behind by our Subjects that are departed, or may depart out of our Kingdom, contrary to the Prohibitions made by our Decrees, shall belong to those of their Paternal, or Maternal Kindred, to whom according to the Customs and Laws of the Provinces of the King<g ref="char:EOLhyphen"/>dom they ought to have descended after the Natural Death of those who have so left the Kingdom, and that they shall share and enjoy them after the same man<g ref="char:EOLhyphen"/>ner, as if they had fallen to them by Succession; and with the same Charges of Debts, Dowries, Pensions for Life, or other Conditions, whether of Assignment Warranted or otherwise; revoking to that effect, all Gifts made by Writing, Decree or Letters Patents, till the date of our present Decree. Provided that the Donee's shall not be oblig'd to restore the Rents by them reserv'd in pursuance of the said Gifts, upon which they shall be only bound to pay the real Char<g ref="char:EOLhyphen"/>ges, proportionably to the time of their Possession.</p>
+            <p n="3">3. We ordain that the Heirs by vertue of the Orders decreed shall be put into possession of the said Estates, by the Lieutenants of our Baylywicks Seneschals, or other our Judges, within whose Jurisdiction the said Estates shall lye, upon Petitions concerning the degrees of their Kindred, which shall be communicat<g ref="char:EOLhyphen"/>ed to our Procurators. In pursuance of which Orders our Will and Pleasure is, that they shall enter into possession of their Estates, the first day of <hi>Jan.</hi> next. To this effect declaring Null and Void upon the same day, all the Releases both General and Particular, that have been made of the said Estates by our Or<g ref="char:EOLhyphen"/>ders. Our further pleasure is, that they who have enjoy'd any Estates by Lease, or otherwise, shall be bound by the first of <hi>March</hi> next to give an accompt be<g ref="char:EOLhyphen"/>fore our Intendants and Commissary's in our Provinces of the Receipts and disbursments which have been made out of the Lands, and what mony remains in the hands of the Farmers and others who have had the looking after the said Land, by verbal answer with the Information of the Intendants and Commissaries, to be sent to our well beloved and Trusty Chancelour, for us to order thereupon what shall be proper.</p>
+            <p n="4">4. Our Judges shall take Cognizance of all suits commenced or to be commenced by reason of the Propriety of the said Lands, either for Debts, Assignements, Rent-Charges, or other Incumbrances, which the Lands shall be pre ended to be charg'd with, being willing that such suits may go on by Instruction and judgement upon the said suits, according to the Usual Manner, as they might have done, before the Donations, and Grants which we had made of any of the said Lands, and the decree made in our Council of State the 31 of <hi>March.</hi> 1638.</p>
+            <p n="5">5. We grant to our Subjects full power before the Judges, in whose Jurisdiction the said Lands lye to make Returns of the Condition wherein they found them before their taking possession of them, and in Case of Wasts Committed by those that had the oversight of the Lands before possession given, they shall exhibit their complaints to the said Judges against those that had Committed the said Wasts, even against the Donee's themselves, if they have Committed any Wast.</p>
+            <p n="6">6. Our pleasure is, that such as are Creditors of any of our Subjects who are departed our Kingdom may bring their suits for the payment of their debts against those who have declar'd themselves the next of Kin and lawful Heirs, and may sue out executions upon the said Lands before the Judges to whom the Cognizance of those things belongs. And as to the Lands which those Heirs shall peaceably enjoy, we ordain that they shall neither Sell nor Mortgage them, till after five years en<g ref="char:EOLhyphen"/>joyment, to begin from the first day of <hi>January</hi> next ensuing; Provided nevertheless that this shall be no obstruction during the term of five years aforesaid, of the discharge of such payments as they are oblig'd to make of the Debts and incumbrances aforesaid, as they shall be judg'd lawful by the Judges aforsaid.</p>
+            <p n="7">7. We ordain, that the Lands and Estates of our Subjects of the Pretended Reformed Religion departed out of our Kingdom, by our permission may be preserv'd for their elder Children if they have any left behind within our Kingdom, or for the Guardians of the younger; and in case they have no Children left behind within our Kingdom, for the persons who shall be commission'd and entrusted by us with the Administration of the Estates, which the Creditors may cause to be seiz'd, and enter process before our Judges, prosecuting all the necessary and formal ways of proceedings, by the validity of the decrees imported by our Ordi<g ref="char:EOLhyphen"/>nances, against the said Elder Children, Tutours or Guardians of the younger, or against those who are by us entrusted in case there be no Children.</p>
+            <p n="8">8. Our Pleasure is that the Revenues of the said Estates shall be distributed during the Lives of our Subjects, as shall be directed by us, and that the proprie<g ref="char:EOLhyphen"/>ty and profits of the Estates shall belong after their Deaths to the lawful Heirs which shall be within our Kingdom according to the disposal of the Second Article of this our present Edict.</p>
+            <p>So we give Command to our Friends and Faithful Counsellours, holding our Courts of Parliament, Chamber of Accompts, and Court of Ardes at <hi>Paris,</hi> that they cause this present Edict to be Read, Published, and Register'd, and Executed point by point; according to its Form and Tenour. For such is our Will and Pleasure, and to the End that this may be a Thing firm and stable to perpetuity, We have caus'd our Seal to be affix'd to these Presents.</p>
+            <closer>
+               <dateline>Given at <hi>Versailles,</hi>
+                  <date>in the Month of <hi>December,</hi> in the year of Grace 1689. and of our Reign the 47th.</date>
+               </dateline>
+               <signed>Sign'd <hi>LEWIS,</hi> and a little Lower By the King, COLBERT.</signed>
+            </closer>
+            <postscript>
+               <p>REGISTER'D: And requiring the Kings Procurators General, that it be put in Execution, according to the Form and Tenour of it.</p>
+               <closer>
+                  <dateline>At <hi>Paris</hi> in the Parliament
+<date>the 9. of <hi>December</hi> 1689.</date>
+                  </dateline>
+                  <signed>Sign'd <hi>TILLET.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Griffin,</hi> at the Sign of the <hi>Griffin</hi> in the <hi>Old-Bayly.</hi> 1689.</p>
+            <pb facs="tcp:188698:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
